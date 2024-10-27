@@ -1,4 +1,4 @@
-# Lastfm-Widget-Edited
+# Lastfm Widget (Modification)
 
 This widget use on my blog [Indonesian Blog](https://www.blog.naturbrilian.my.id/) and [English Blog (inactive)](https://naturbrilian.hatenablog.com)
 
